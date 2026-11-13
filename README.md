@@ -6,7 +6,7 @@
 
 Santi tiene 14 años y tiene que hacer los mandados de su mamá en un barrio colombiano de ladera: la droguería, la pipeta del gas, el recibo de la luz, la tienda de don Chucho. El reloj corre, el papelito se moja, los vecinos opinan, hay reta en la cuadra y el miércoles juega la Selección.
 
-Un juego de pixel art de **NEYA**. Hecho en Colombia. 🇨🇴
+Un juego de pixel art de **NEYA**. Hecho en Colombia.
 
 ## ⬇️ Descargar
 
