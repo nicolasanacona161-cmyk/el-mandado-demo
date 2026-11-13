@@ -1,0 +1,25 @@
+El Mandado - demo de prueba
+(c) 2026 NEYA. Todos los derechos reservados.
+
+Se permite descargar el demo, jugarlo de forma personal y compartir el
+enlace a este repositorio.
+
+No se permite volver a subir el archivo en otros sitios, venderlo,
+modificarlo ni usar su arte, musica, textos o personajes en otros
+proyectos sin permiso escrito de NEYA.
+
+Este repositorio no incluye el codigo fuente del juego.
+
+---
+
+El Mandado - test demo
+(c) 2026 NEYA. All rights reserved.
+
+You may download the demo, play it for personal use and share the link
+to this repository.
+
+You may not re-upload the file elsewhere, sell it, modify it, or use its
+art, music, text or characters in other projects without written
+permission from NEYA.
+
+This repository does not include the game's source code.
