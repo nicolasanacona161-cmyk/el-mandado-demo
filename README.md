@@ -12,6 +12,8 @@ Un juego de pixel art de **NEYA**. Hecho en Colombia.
 
 **[Descargar el demo para Windows (78 MB)](../../releases/latest)**
 
+🎬 **[Ver el tráiler (60 s)](../../releases/latest/download/El_Mandado_trailer.mp4)**
+
 El demo trae el prólogo, el lunes y el martes: de 40 a 70 minutos. Solo en español por ahora.
 
 1. Descomprime el `.zip` en una carpeta.
@@ -63,7 +65,7 @@ Escríbelo en la publicación donde encontraste el juego, o abre un [reporte aqu
 
 **Six days, one shopping list and a mom waiting before six.** Santi, 14, runs his mom's errands through a hillside Colombian neighborhood: the clock is ticking, the note gets wet, the neighbors have opinions, there's street soccer on the block, and on Wednesday the national team plays. A pixel-art game by **NEYA**, made in Colombia.
 
-**[Download the Windows demo (78 MB)](../../releases/latest)** — prologue, Monday and Tuesday, 40 to 70 minutes. **Spanish only for now.** Unzip and run `ElMandado_demo_prueba.exe`; if Windows says "Windows protected your PC", click "More info" → "Run anyway" (the build is not digitally signed yet). Requires 64-bit Windows 10/11 and a Vulkan-capable GPU. The game does not go online or collect any data.
+**[Download the Windows demo (78 MB)](../../releases/latest)** · **[Watch the trailer](../../releases/latest/download/El_Mandado_trailer.mp4)** — prologue, Monday and Tuesday, 40 to 70 minutes. **Spanish only for now.** Unzip and run `ElMandado_demo_prueba.exe`; if Windows says "Windows protected your PC", click "More info" → "Run anyway" (the build is not digitally signed yet). Requires 64-bit Windows 10/11 and a Vulkan-capable GPU. The game does not go online or collect any data.
 
 This is a **test build**: feedback on where you got lost, what felt slow and any bugs is very welcome (reply in the post where you found it, or [open an issue](../../issues/new)).
 
